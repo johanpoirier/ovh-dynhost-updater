@@ -1,0 +1,14 @@
+{
+  "name": "jops-hosts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Johan Poirier <johan.poirier@gmail.com> (https://twitter.com/johanpoirier)",
+  "license": "MIT",
+  "dependencies": {
+    "ovh": "^2.0.2"
+  }
+}

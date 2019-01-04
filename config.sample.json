@@ -1,0 +1,9 @@
+{
+  "endPoint": "ovh-eu",
+  "appKey": "",
+  "appSecret": "",
+  "consumerKey": "",
+  "dynHosts": [
+  ],
+  "homeHost": 0
+}
